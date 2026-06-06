@@ -11,6 +11,10 @@ The bike fan connector provides:
 - `GND`
 - `Switching signal`
 
+## Circuit Schematic
+
+![Circuit schematic](_readme/circuit.PNG)
+
 Signal behavior:
 - `2.4 V` = **fan OFF**
 - `0 V` = **fan ON**
